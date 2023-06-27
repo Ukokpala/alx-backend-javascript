@@ -1,0 +1,20 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "This is a Readme file for alx backend javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/ukokpala/alx-backend-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukokpala/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/ukokpala/alx-backend-javascript#readme"
+}
